@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Rafael Guimarães, tenho 25 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIGRANRIO. Sou apaixonado por tecnologia e anseio por novos aprendizados na área. O intuido do meu GitHub é absorver o máximo de conhecimentos e compartilhar meus conhecimentos adquiridos na faculdade e nos cursos estracurrículares e bootcamps.
+Me chamo Rafael Guimarães, tenho 25 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIGRANRIO. Sou apaixonado por tecnologia e anseio por novos aprendizados na área. O intuido do meu GitHub é absorver o máximo de conhecimentos e compartilhar meus conhecimentos adquiridos na faculdade e nos cursos extracurrículares e bootcamps.
 
 ---
 
